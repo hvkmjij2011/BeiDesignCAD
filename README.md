@@ -35,92 +35,94 @@ python beidcad.py
 
 > Fusion Wheel ve Performance Tip modelleri, kaynağı belirlenemeyen üçüncü taraf modellerinden türetilmiştir. Hak sahibiyseniz lütfen iletişime geçin; atıf eklenecek veya model kaldırılacaktır.
 
-### Lisanlılar
-Yazılımın kendisi (kod, UI, CAD sistemi) MIT Lisansı ile yayınlamaktır.
-Gömülü 3D modelleyici yukarıdaki tabloda belirtilen kaynaklara aittir.
+### Lisans
+Yazılımın kendisi (kod, UI, CAD sistemi) **GPL-3.0 Lisansı** ile yayınlanmıştır.
+Gömülü 3D modeller yukarıdaki tabloda belirtilen kaynaklara aittir.
+
+> **Not:** Bu proje büyük ölçüde yapay zeka yardımıyla oluşturulmuştur.
 
 ---
 
-not: bu proje çoğunlukla yapay zeka aracılığıyla oluşturulmuştur.
+## 🇬🇧 English
 
-## 🇬🇧 İngilizce
+**BeiDesignCAD** is an open-source community CAD tool for designing and previewing Metal Fight Beyblade parts.
 
-**BeiDesignCAD** metal Fight Beyblade parçaları tasarlamak ve önizlemek için açık kaynaklı bir topluluk CAD aracıdır.
+### Installation
 
-### Kurumulum
-
-'`'bash
-pip yükselmek PySide6 PyOpenGL numpy
+```bash
+pip install PySide6 PyOpenGL numpy
 python beidcad.py
-'`'
+```
 
-### Gereksinimler
+### Requirements
 - Python 3.10+
 - PySide6
 - PyOpenGL
-- uyuşuk
+- numpy
 
-### Kullanım
-- Eklemek `. . . . Bei` dosyalar `projeler/` klasörleyin veya yeni bir proje oluşturun.
-- Kendinizinkini yerleştirin `.` / `. .` Enerji Halkası dosyaları `enerji halkaları/` klasör.
+### Usage
+- Add `.bei` files to the `projects/` folder or create a new project.
+- Place your own `.stl` / `.obj` Energy Ring files in the `energy-rings/` folder.
 
-### Krediler ve Nitelikler
+### Credits & Attributions
 
-| Parça | Kaynak | Lisanlar |
-|---|-----|
-| Yüz Cıvatası | [Thingiverse — şey:6199788](https://www.thingiverse.com/thing:6199788) | CC BY-NC-ND |
-| Enerji Halkaları | [Thingiverse — şey:6199788](https://www.thingiverse.com/thing:6199788) | CC BY-NC-ND |
-| Döndürme Parçası | [Deryn Greenwood — Reddit](https://www.reddit.com/r/BeybladeMetal/comments/xz5wpg/my_3d_model_repository_for_mfb/) | Kullanımı ucretsiz (atıf gereklidir) |
-| Füzyon Tekerleği | Kaynak belirlenemedi — türev çalışması | — |
-| Performans İpucu | Kaynak belirlenemedi — türev çalışması | — |
+| Part | Source | License |
+|---|---|---|
+| Face Bolt | [Thingiverse — thing:6199788](https://www.thingiverse.com/thing:6199788) | CC BY-NC-ND |
+| Energy Rings | [Thingiverse — thing:6199788](https://www.thingiverse.com/thing:6199788) | CC BY-NC-ND |
+| Spin Track | [Deryn Greenwood — Reddit](https://www.reddit.com/r/BeybladeMetal/comments/xz5wpg/my_3d_model_repository_for_mfb/) | Free to use (attribution required) |
+| Fusion Wheel | Source could not be identified — derivative work | — |
+| Performance Tip | Source could not be identified — derivative work | — |
 
-> Fusion Wheel ve Performance Tip modelleri tanımlanamayan üçüncü taraf kaynaklardan türetilmiştir. Orijinal yazar iseniz, lütfen iletişime geçin — atıf eklenecek veya talep süzerine model kaldırılacaktır.
+> The Fusion Wheel and Performance Tip models are derived from third-party sources that could not be identified. If you are the original author, please get in touch — attribution will be added or the model will be removed upon request.
 
-### Lisanlılar
-Yazılımın kendisi (kod, kullanıcı arayüzü, CAD sistemi) MIT Lisansı altında yayınlanmaktadır.
-Gömülü 3D modelleyici, yukarıdaki tabloda listelendiği gibi ilgili kaynaklarına aittir.
+### License
+The software itself (code, UI, CAD system) is released under the **GPL-3.0 License**.
+Embedded 3D models belong to their respective sources as listed in the table above.
+
+> **Note:** This project was largely created with the assistance of AI.
 
 ---
-
-note: this project was mosly created by using ai.
 
 ## 🇯🇵 日本語
 
-**BeiDesignCAD**¥οタルフ イイトรイブレードのパーィデリイン・プレンウ ー の オープン家ースコキ式ニアィCAD자ルា?? 
+**BeiDesignCAD**は、メタルファイトベイブレードのパーツをデザイン・プレビューするためのオープンソースコミュニティCADツールです。
 
 ### インストール
 
-'`'bash
-pip yükselmek PySide6 PyOpenGL numpy
+```bash
+pip install PySide6 PyOpenGL numpy
 python beidcad.py
-'`'
+```
 
-### , ',
-- Python 3.10 ve 上
+### 動作環境
+- Python 3.10以上
 - PySide6
 - PyOpenGL
-- uyuşuk
+- numpy
 
-### い克
-- `projeler/` フ ルダ ⴰ `. . . . . Bei` フ,イルⴰ ⴰ ⴰⴰ ်か 新 ?? プロジ GRAクト ⴰⴰⴰ််် ?? ? 
-- 自 Šの `.` / `. .` バ ル ーリングフ イル , `enerji halkaları/` フ ルŻ ⴰ 太 ် ?? 
+### 使い方
+- `projects/` フォルダに `.bei` ファイルを追加するか、新規プロジェクトを作成してください。
+- 自分の `.stl` / `.obj` エネルギーリングファイルを `energy-rings/` フォルダに入れてください。
 
-### クレジット・γο
+### クレジット・出典
 
-| ーン | ROM | ライ ンス |
-|---|-----|
-| フリス ャルト | [Thingiverse — şey:6199788](https://www.thingiverse.com/thing:6199788) | CC BY-NC-ND |
-| エ ル ーリング | [Thingiverse — şey:6199788](https://www.thingiverse.com/thing:6199788) | CC BY-NC-ND |
-| ス ントラック | [Deryn Greenwood — Reddit](https://www.reddit.com/r/BeybladeMetal/comments/xz5wpg/my_3d_model_repository_for_mfb/) | 自 ☐Ω（クレジット,記 ?? ） |
-| フウージーンジイール | ် ⴰ明 — Ν生ⴰrish | — |
-| パフ ーマンスチップ | ် ⴰ明 — Ν生ⴰrish | — |
+| パーツ | 出典 | ライセンス |
+|---|---|---|
+| フェイスボルト | [Thingiverse — thing:6199788](https://www.thingiverse.com/thing:6199788) | CC BY-NC-ND |
+| エネルギーリング | [Thingiverse — thing:6199788](https://www.thingiverse.com/thing:6199788) | CC BY-NC-ND |
+| スピントラック | [Deryn Greenwood — Reddit](https://www.reddit.com/r/BeybladeMetal/comments/xz5wpg/my_3d_model_repository_for_mfb/) | 自由利用可（クレジット表記必須） |
+| フュージョンホイール | 出典不明 — 派生作品 | — |
+| パフォーマンスチップ | 出典不明 — 派生作品 | — |
 
-> フウージーン正イールGR า ィフ ーマンスチップのモデルร ÑË き ÑÑ 天公のモデル ་ ် ် ် ် ် ャ 生 rish, ?? 原原်の克்合 ?? ்្?? クレジットの ⴰ ⴰ ⴰ ்モルの ?? ? ? い်?? 天い天 ⴰ ?? 
+> フュージョンホイールおよびパフォーマンスチップのモデルは、特定できなかった第三者のモデルをもとにした派生作品です。原作者の方はご連絡ください。クレジットの追加またはモデルの削除に対応いたします。
 
-### ライ ンス
-天フトウャスア本Ą（コード・UI・CADシス지ム） MITライ ンスា公รⴰいⴰ ?? 
- ?? ?? ⴰ 天் モルร上記の ⴰ記ν ា กν ?? 2 ?? ? ? 
+### ライセンス
+ソフトウェア本体（コード・UI・CADシステム）は **GPL-3.0ライセンス** で公開されています。
+埋め込まれた3Dモデルは上記の表に記載された各出典に帰属します。
+
+> **注記:** このプロジェクトは主にAIの支援を受けて作成されました。
 
 ---
 
-*BeiDesignCAD — Bei Projesi*
+*BeiDesignCAD — Bei Project*
