@@ -32,6 +32,7 @@ python beidcad.py
 | Spin Track | [Deryn Greenwood — Reddit](https://www.reddit.com/r/BeybladeMetal/comments/xz5wpg/my_3d_model_repository_for_mfb/) | Serbest kullanım (atıf zorunlu) |
 | Fusion Wheel | Kaynak tespit edilemedi — türev eser | — |
 | Performance Tip | Kaynak tespit edilemedi — türev eser | — |
+| CX Expand template i | [aHNO - thingiverse](https://www.thingiverse.com/thing:7348085) | CC BY-SA |
 
 > Fusion Wheel ve Performance Tip modelleri, kaynağı belirlenemeyen üçüncü taraf modellerinden türetilmiştir. Hak sahibiyseniz lütfen iletişime geçin; atıf eklenecek veya model kaldırılacaktır.
 
@@ -73,6 +74,7 @@ python beidcad.py
 | Spin Track | [Deryn Greenwood — Reddit](https://www.reddit.com/r/BeybladeMetal/comments/xz5wpg/my_3d_model_repository_for_mfb/) | Free to use (attribution required) |
 | Fusion Wheel | Source could not be identified — derivative work | — |
 | Performance Tip | Source could not be identified — derivative work | — |
+| CX Expand template | [aHNO - thingiverse](https://www.thingiverse.com/thing:7348085) | CC BY-SA |
 
 > The Fusion Wheel and Performance Tip models are derived from third-party sources that could not be identified. If you are the original author, please get in touch — attribution will be added or the model will be removed upon request.
 
@@ -114,6 +116,7 @@ python beidcad.py
 | スピントラック | [Deryn Greenwood — Reddit](https://www.reddit.com/r/BeybladeMetal/comments/xz5wpg/my_3d_model_repository_for_mfb/) | 自由利用可（クレジット表記必須） |
 | フュージョンホイール | 出典不明 — 派生作品 | — |
 | パフォーマンスチップ | 出典不明 — 派生作品 | — |
+| カスタムライン展開テンプレート | [aHNO - thingiverse](https://www.thingiverse.com/thing:7348085) | CC BY-SA |
 
 > フュージョンホイールおよびパフォーマンスチップのモデルは、特定できなかった第三者のモデルをもとにした派生作品です。原作者の方はご連絡ください。クレジットの追加またはモデルの削除に対応いたします。
 
