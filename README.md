@@ -4,12 +4,12 @@
 
 ## 🇹🇷 Türkçe
 
-**BeiDesignCAD**, Metal Fight Beyblade parçalarını tasarlamak ve önizlemek için geliştirilmiş açık kaynaklı bir topluluk CAD aracıdır.
+**BeiDesignCAD**,Bey parçalarını tasarlamak ve önizlemek için geliştirilmiş açık kaynaklı bir topluluk CAD aracıdır.
 
 ### Kurulum
 
 ```bash
-pip install PySide6 PyOpenGL numpy
+pip install -r requirements.txt
 python beidcad.py
 ```
 
@@ -46,12 +46,12 @@ Gömülü 3D modeller yukarıdaki tabloda belirtilen kaynaklara aittir.
 
 ## 🇬🇧 English
 
-**BeiDesignCAD** is an open-source community CAD tool for designing and previewing Metal Fight Beyblade parts.
+**BeiDesignCAD** is an open-source community CAD tool for designing and previewing Bey parts.
 
 ### Installation
 
 ```bash
-pip install PySide6 PyOpenGL numpy
+pip install -r requirements.txt
 python beidcad.py
 ```
 
@@ -93,7 +93,7 @@ Embedded 3D models belong to their respective sources as listed in the table abo
 ### インストール
 
 ```bash
-pip install PySide6 PyOpenGL numpy
+pip install -r requirements.txt
 python beidcad.py
 ```
 
